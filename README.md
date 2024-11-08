@@ -1,6 +1,12 @@
 ## Hi there 👋
 
 <!--
+<a href="https://github.com/osoohynn"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=osoohynn&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="권수현's github stats" /></a>
+
+<a href="https://github.com/osoohynn"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osoohynn&layout=compact&theme=nord&hide_border=true" /></a>
+-->
+
+<!--
 **osoohynn/osoohynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
