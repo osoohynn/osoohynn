@@ -6,6 +6,16 @@
 <a href="https://github.com/osoohynn"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osoohynn&layout=compact&theme=nord&hide_border=true" /></a>
 -->
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/osoohynn?pet-id=645451270248723827"
+    width="600"
+    height="300"
+  />
+</a>
+  
+
 <!--
 **osoohynn/osoohynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
