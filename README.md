@@ -50,8 +50,8 @@
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=osoohynn&bg_color=180,00000000,&title_color=2d3239&text_color=2d3239"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osoohynn&layout=compact&bg_color=180,00000000,&title_color=2d3239&text_color=2d3239"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=osoohynn&theme=ambient_gradient&show_icons=true"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osoohynn&layout=compact&theme=transparent"
            /> </div> 
     </div>
     
