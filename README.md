@@ -11,7 +11,6 @@
 <h2>내일의 가능성을 그리는 백엔드 개발자, 권수현입니다.</h2>
 
 <div style="display: flex; align-items: center; justify-content: flex-start; text-align: left; gap: 20px;">
-        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGbG5tkmC3qCSwt9ueSkEWONrC2C-GcEvGUn5fMpFdlgPgI2jmPyWoi4Y9-qsnc6vCsPZxL7_khYJzKRHMKhrjFDWpgz4CM69ZmLrT4OnSvaVKV8-Wh9q_DgJnj97pfAS85xlYaRUGV2Lq2h8_IZrEyOc-p_aJobVIWOshWArGQDuU3ojWGDXWAvhoqYA/s320/KakaoTalk_Photo_2025-02-10-22-31-52.jpeg" style="width: 150px; height: auto; flex-shrink: 0;">
     <div style="font-weight: 400; font-size: 15px; color: #282d33;">
         <p><b>Tel.</b> 010-2937-6638</p>
         <p><b>Email.</b> osoohynn@naver.com</p>
