@@ -7,10 +7,18 @@
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a3baff,100:4f4dff&height=180&text=Suhyun's%20GitHub&animation=blink&fontColor=ffffff&fontSize=60" />
+</div>
+<h2>내일의 가능성을 그리는 백엔드 개발자, 권수현입니다.</h2>
+
+<div style="display: flex; align-items: center; justify-content: flex-start; text-align: left; gap: 20px;">
+        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGbG5tkmC3qCSwt9ueSkEWONrC2C-GcEvGUn5fMpFdlgPgI2jmPyWoi4Y9-qsnc6vCsPZxL7_khYJzKRHMKhrjFDWpgz4CM69ZmLrT4OnSvaVKV8-Wh9q_DgJnj97pfAS85xlYaRUGV2Lq2h8_IZrEyOc-p_aJobVIWOshWArGQDuU3ojWGDXWAvhoqYA/s320/KakaoTalk_Photo_2025-02-10-22-31-52.jpeg" style="width: 150px; height: auto; flex-shrink: 0;">
+    <div style="font-weight: 400; font-size: 15px; color: #282d33;">
+        <p><b>Tel.</b> 010-2937-6638</p>
+        <p><b>Email.</b> osoohynn@naver.com</p>
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 수상 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 2024 05 | 꿈 발표 대회 2위 (은상)</li><li> 2024 05 | SW 아이디어톤 1위</li><li> 2024 07 | 교내 발명품 경진대회 우수상</li><li> 2024 08 | 사회과목 교과 우수상</li><li> 2024 08 | 교내 다독상 2위</li><li> 2024 08 | DGIST 코딩 오디세이 1위 (금상)</li><li> 2024 08 | 해커그라운드 우수상</li><li> 2024 10 | ICT 창업가 캠프 동상 & 협업상</li><li> 2024 11 | 스마틴앱챌린지 우수상</li><li> 2024 12 | 28회 앱잼 미래산업 최우수상</li><li> 2024 12 | 교내 다독상 1위</li><li> 2024 12 | 교내 소프트웨어로 나르샤 1위</li><li> 2025 01 | 연암공대 AI 해커톤 대상</li><li> 2025 02 | 교내 학생역량인증제 종합 2위 & 전공 분야 우수상</li><li> 2025 02 | 29회 앱잼 생활정보 우수상 </div> 
+</div>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏆 수상 </h2>  
+    <div style="font-weight: 500; font-size: 15px; text-align: left; color: #282d33;"> <li> 2024 05 | 꿈 발표 대회 2위 (은상)</li><li> 2024 05 | SW 아이디어톤 1위</li><li> 2024 07 | 교내 발명품 경진대회 우수상</li><li> 2024 08 | 사회과목 교과 우수상</li><li> 2024 08 | 교내 다독상 2위</li><li> 2024 08 | DGIST 코딩 오디세이 1위 (금상)</li><li> 2024 08 | 해커그라운드 우수상</li><li> 2024 10 | ICT 창업가 캠프 동상 & 협업상</li><li> 2024 11 | 스마틴앱챌린지 우수상</li><li> 2024 12 | 28회 앱잼 미래산업 최우수상</li><li> 2024 12 | 교내 다독상 1위</li><li> 2024 12 | 교내 소프트웨어로 나르샤 1위</li><li> 2025 01 | 연암공대 AI 해커톤 대상</li><li> 2025 02 | 교내 학생역량인증제 종합 2위 & 전공 분야 우수상</li><li> 2025 02 | 29회 앱잼 생활정보 우수상 </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
