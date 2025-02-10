@@ -52,19 +52,17 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=osoohynn&theme=ambient_gradient&show_icons=true"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osoohynn&layout=compact&theme=transparent"
-           /> <a href="https://git.io/streak-stats"><br><img src="https://streak-stats.demolab.com?user=osoohynn" alt="GitHub Streak" /></a>
-    <img src="http://mazandi.herokuapp.com/api?handle=dgsw1301&theme=warm"/></div> 
+           /> <a href="https://git.io/streak-stats"><br><img src="https://streak-stats.demolab.com?user=osoohynn" alt="GitHub Streak" /></a><br>
+    <img src="http://mazandi.herokuapp.com/api?handle=dgsw1301&theme=warm"/><span> </span> <a href="https://github.com/devxb/gitanimals">
+      <img
+        src="https://render.gitanimals.org/lines/osoohynn?pet-id=645451270248723827"
+        width="300"
+        height="200"
+      />
+    </a>
+
     </div>
-    
 
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/osoohynn?pet-id=645451270248723827"
-    width="600"
-    height="300"
-  />
-</a>
   
 
 <!--
