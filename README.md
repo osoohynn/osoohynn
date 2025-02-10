@@ -38,7 +38,7 @@
     <div align= "center"> <a href=https://www.instagram.com/osoohynn> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/osoohynn"> </a>
          <a href=https://velog.io/@su080915> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@su080915"> </a>
          <a href=https://osoohynn.notion.site/\> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://osoohynn.notion.site/\"> </a>
-        <a href=https://https://www.linkedin.com/in/osoohynn//\> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/osoohynn/\"> </a>
+        <a href=https://www.linkedin.com/in/osoohynn//\> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/osoohynn/\"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
