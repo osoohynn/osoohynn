@@ -8,7 +8,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a3baff,100:4f4dff&height=180&text=Suhyun's%20GitHub&animation=blink&fontColor=ffffff&fontSize=60" />
 </div>
-<h2>내일의 가능성을 그리는 백엔드 개발자, 권수현입니다.</h2>
+<h2>색다름을 추구하는 백엔드 개발자, 권수현입니다.</h2>
 
 <div style="display: flex; align-items: center; justify-content: flex-start; text-align: left; gap: 20px;">
     <div style="font-weight: 400; font-size: 15px; color: #282d33;">
