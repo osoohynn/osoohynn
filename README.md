@@ -12,6 +12,7 @@
 
 <div style="display: flex; align-items: center; justify-content: flex-start; text-align: left; gap: 20px;">
     <div style="font-weight: 400; font-size: 15px; color: #282d33;">
+        <p><b>Portfolio.</b> <a href=https://osoohynn.notion.site>osoohynn.notion.site</a></p>
         <p><b>Tel.</b> 010-2937-6638</p>
         <p><b>Email.</b> osoohynn@naver.com</p>
         <p> - dgsw 9기 전교 1등<br> - 외부대회 수상 7회, 교내대회 수상 8회<br> - 교내 장학생 선정</p>
