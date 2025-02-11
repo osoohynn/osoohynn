@@ -14,7 +14,7 @@
     <div style="font-weight: 400; font-size: 15px; color: #282d33;">
         <p><b>Tel.</b> 010-2937-6638</p>
         <p><b>Email.</b> osoohynn@naver.com</p>
-        <p> - dgsw 9기 전교 1등<br> - 외부대회 수상 7회<br> - 교내 학생역량인증제 종합 2위<br> - 교내 장학생 선정</p>
+        <p> - dgsw 9기 전교 1등<br> - 외부대회 수상 7회<br> - 교내 장학생 선정</p>
     </div>
     <details>
   <summary>🏆 <b> 수상 내역 </b> (클릭하여 펼치기)</summary>
