@@ -15,7 +15,7 @@
         <p><b>Portfolio.</b> <a href=https://osoohynn.notion.site>osoohynn.notion.site</a></p>
         <p><b>Tel.</b> 010-2937-6638</p>
         <p><b>Email.</b> osoohynn@naver.com</p>
-        <p> - dgsw 9기 전교 1등<br> - 외부대회 수상 7회, 교내대회 수상 8회<br> - 교내 장학생 선정</p>
+        <p> - dgsw 9기 전교 1등<br> - 외부대회 수상 8회, 교내대회 수상 8회<br> - 교내 장학생 선정</p>
     </div>
     <details>
   <summary>🏆 <b> 수상 내역 </b> (클릭하여 펼치기)</summary>
@@ -34,7 +34,8 @@
   - 2024 12 | 교내 소프트웨어로 나르샤 1위  
   - 2025 01 | 연암공대 AI 해커톤 대상  
   - 2025 02 | 교내 학생역량인증제 종합 2위 & 전공 분야 우수상  
-  - 2025 02 | 29회 앱잼 생활정보 우수상  
+  - 2025 02 | 29회 앱잼 생활정보 우수상
+  - 2025 02 | 10회 하이톤 대상
 
 </details>
 </div>
