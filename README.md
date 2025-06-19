@@ -4,39 +4,6 @@
 
 <a href="https://github.com/osoohynn"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osoohynn&layout=compact&theme=nord&hide_border=true" /></a>
 -->
-
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a3baff,100:4f4dff&height=180&text=Suhyun's%20GitHub&animation=blink&fontColor=ffffff&fontSize=60" />
-</div>
-<h2>권수현입니다.</h2>
-
-<div style="display: flex; align-items: center; justify-content: flex-start; text-align: left; gap: 20px;">
-    <div style="font-weight: 400; font-size: 15px; color: #282d33;">
-        <p><b>Portfolio.</b> <a href=https://osoohynn.notion.site>osoohynn.notion.site</a></p>
-        <p><b>Tel.</b> 010-2937-6638</p>
-        <p><b>Email.</b> osoohynn@naver.com</p>
-    </div>
-    <details>
-  <summary>🏆 <b> 수상 내역 </b> (클릭하여 펼치기)</summary>
-
-  - 2024 05 | 꿈 발표 대회 2위 (은상)  
-  - 2024 05 | SW 아이디어톤 1위  
-  - 2024 07 | 교내 발명품 경진대회 우수상  
-  - 2024 08 | 사회과목 교과 우수상  
-  - 2024 08 | 교내 다독상 2위  
-  - 2024 08 | DGIST 코딩 오디세이 1위 (금상)  
-  - 2024 08 | 해커그라운드 우수상  
-  - 2024 10 | ICT 창업가 캠프 동상 & 협업상  
-  - 2024 11 | 스마틴앱챌린지 우수상  
-  - 2024 12 | 28회 앱잼 미래산업 최우수상  
-  - 2024 12 | 교내 다독상 1위  
-  - 2024 12 | 교내 소프트웨어로 나르샤 1위  
-  - 2025 01 | 연암공대 AI 해커톤 대상  
-  - 2025 02 | 교내 학생역량인증제 종합 2위 & 전공 분야 우수상  
-  - 2025 02 | 29회 앱잼 생활정보 우수상
-  - 2025 02 | 10회 하이톤 대상
-
-</details>
 </div>
     </div>
     <div style="text-align: left;">
@@ -61,12 +28,6 @@
           <br/></div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://www.instagram.com/osoohynn> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/osoohynn"> </a>
-         <a href=https://velog.io/@su080915> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@su080915"> </a>
-         <a href=https://osoohynn.notion.site/\> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://osoohynn.notion.site/\"> </a>
-        <a href=https://www.linkedin.com/in/osoohynn//\> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/osoohynn/\"> </a>
-          </div>  <br> 
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
