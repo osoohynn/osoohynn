@@ -11,11 +11,11 @@
     <div  align= "center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
           <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+          <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
           <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastApi&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -31,15 +31,16 @@
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=osoohynn&theme=ambient_gradient&show_icons=true"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osoohynn&layout=compact&theme=transparent"
-           /> <a href="https://git.io/streak-stats"><br><img src="https://streak-stats.demolab.com?user=osoohynn" alt="GitHub Streak" /></a><br>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=osoohynn&theme=ambient_gradient&show_icons=true" 
+        width="400" />  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=osoohynn" alt="GitHub Streak" width="400" /></a>
     <img src="http://mazandi.herokuapp.com/api?handle=dgsw1301&theme=warm"/><span> </span> <a href="https://github.com/devxb/gitanimals">
       <img
         src="https://render.gitanimals.org/lines/osoohynn?pet-id=645451270248723827"
         width="300"
         height="200"
       />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osoohynn&layout=compact&theme=transparent" width="300"
+           />
     </a>
 
   
